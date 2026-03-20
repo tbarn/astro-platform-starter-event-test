@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+# Astro on Netlify Platform Starter - event test
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
